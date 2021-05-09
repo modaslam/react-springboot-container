@@ -1,0 +1,8 @@
+# Eclipse specific
+.settings
+.classpath
+.project
+
+# Project specific
+src/main/resources/META-INF
+target/
